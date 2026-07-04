@@ -47,7 +47,7 @@ Cupcake evaluates every event against all policies and applies the strongest ver
 | `modify` | Inputs changed before execution |
 | `add_context` | Extra context injected, nothing blocked |
 
-## Install
+## Installation
 
 ```bash
 # Project-level (this repo's policies apply inside one project)
